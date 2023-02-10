@@ -1,2 +1,2 @@
 #!/bin/bash
-su chomd u+x,g+x,o+r hello
+su chmod u+x,g+x,o+r hello
